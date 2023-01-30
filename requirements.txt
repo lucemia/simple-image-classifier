@@ -1,3 +1,4 @@
 coremltools
 typer
 Pillow
+pyicloud
